@@ -20,6 +20,8 @@ dependencies {
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
     testImplementation 'commons-dbutils:commons-dbutils:1.7'
     testImplementation 'com.codeborne:selenide:6.13.0'
+    testImplementation 'io.rest-assured:rest-assured:5.3.1'
+    testImplementation 'com.google.code.gson:gson:2.10.1'
 }
 
 test {
